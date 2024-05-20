@@ -1,0 +1,11 @@
+
+models/Demucs_Models/v3_v4_repo/demucs_models.txt
+models/MDX_Net_Models/MDX23C-8KFFT-InstVoc_HQ.ckpt
+models/MDX_Net_Models/model_data/model_data.json
+models/MDX_Net_Models/model_data/model_name_mapper.json
+models/VR_Models/1_HP-UVR.pth
+models/VR_Models/3_HP-Vocal-UVR.pth
+models/VR_Models/5_HP-Karaoke-UVR.pth
+models/VR_Models/6_HP-Karaoke-UVR.pth
+models/VR_Models/model_data/model_data.json
+models/VR_Models/UVR-De-Echo-Normal.pth
